@@ -5,7 +5,7 @@
 #include "vector.hpp"
 using namespace std;
 
-struct Index1
+struct Index
 {
     unsigned long long keys;
     unsigned long long value;
