@@ -9,6 +9,8 @@ void Lowercase(char *str) {
         str[i] = std::tolower(str[i]);
 }
 
+/* testing submodule */
+
 int main(int argc, char** argv) {
     // Файлы
     std::ofstream fout;
